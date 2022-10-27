@@ -1,0 +1,14 @@
+//
+//  AppDelegate.h
+//  Gonjiam
+//
+//  Created by vapor on 2022/10/27.
+//
+
+#import <Cocoa/Cocoa.h>
+
+@interface AppDelegate : NSObject <NSApplicationDelegate>
+
+
+@end
+
